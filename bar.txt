@@ -1,2 +1,3 @@
 bar
 mod source
+mod source 2
